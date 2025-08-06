@@ -36,7 +36,7 @@ A sleek and responsive weather application built with **ReactJS**. It allows use
 - ReactJS (Functional Components + Hooks)
 - Vite (for fast bundling and development)
 - OpenWeatherMap API
-- CSS (or Tailwind, if used)
+- CSS 
 - HTML5 + JS
 
 ---
@@ -103,4 +103,4 @@ Contributions are welcome! Feel free to fork the repo and submit a pull request.
 MIT License
 
 💡 Author
-Made with ❤️ by Your Name
+Made with ❤️ by Hassan Raza
